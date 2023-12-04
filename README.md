@@ -1,5 +1,7 @@
 # Weather application I developed while learning React
 
+<img src="https://github.com/enesgkky/weather-app/blob/main/weather-app.png?raw=true"/>
+
 ## Available Scripts
 
 In the project directory, you can run:
