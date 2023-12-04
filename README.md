@@ -25,8 +25,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Dependency
 
 ### react
+Installation : `npx create-react-app {project-name}`
+
 ### react-icons
 İnstalling => `npm install react-icons --save`
-### tailwindcss
 
+### tailwindcss
 Information for installation => [tailwindcss with create-react-app](https://tailwindcss.com/docs/guides/create-react-app)
